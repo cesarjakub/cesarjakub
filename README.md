@@ -1,1 +1,2 @@
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cesarjak" alt="cesarjak" /></a> </p>
+<h1>Hi 👋, I'm Jakub César</h1>
+<h3>Software engineering student at CTU.</h3>
