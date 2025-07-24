@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Jakub</h1>
+<h1 >Hi 👋, I'm Jakub</h1>
 <h3 align="center">I'm a Software Engineering student at CTU</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3>Connect with me:</h3>
+<p>
 </p>
 
 <h3 align="left">Skills</h3>
