@@ -1,5 +1,5 @@
 <h1 >Hi 👋, I'm Jakub</h1>
-<h3 align="center">I'm a Software Engineering student at CTU</h3>
+<h3 >I'm a Software Engineering student at CTU</h3>
 
 <h3>Connect with me:</h3>
 <p>
