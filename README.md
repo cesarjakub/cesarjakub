@@ -1,9 +1,107 @@
-## 💫 About Me:
-I’m a Software Engineering student at CTU<br>
+╭──────────────────────────────────────────────────────────────────────────────╮
+│ ● ● ●                                                              zsh       │
+╰──────────────────────────────────────────────────────────────────────────────╯
 
+jakub@macbook ~ % ./about
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jakubcésar) 
+✔ Frontend Developer @ Česká Spořitelna
+✔ Software Engineering Student @ FEL
+✔ React • TypeScript • Tailwind CSS • Radix UI
+✔ Building modern, accessible web applications
 
-## 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+───────────────────────────────────────────────────────────────────────────────
+
+jakub@macbook ~ % whoami
+
+Jakub Cesar
+Frontend Developer • Software Engineering Student
+Based in Czech Republic 🇨🇿
+
+───────────────────────────────────────────────────────────────────────────────
+
+jakub@macbook ~ % cat current.txt
+
+Currently
+─────────
+→ Frontend Developer (Part-time)
+  Česká Spořitelna
+
+→ Student
+  Faculty of Electrical Engineering (FEL)
+  Software Engineering
+
+→ Interested in
+  • Clean UI
+  • Developer Experience
+  • Modern Web Technologies
+  • Scalable Frontend Architecture
+
+───────────────────────────────────────────────────────────────────────────────
+
+jakub@macbook ~ % stack
+
+Frontend
+├── React
+├── Next.js
+├── TypeScript
+├── JavaScript
+├── Tailwind CSS
+├── Radix UI
+├── HTML
+└── CSS
+
+Backend
+├── C#
+├── ASP.NET
+├── REST APIs
+├── SQL
+└── Nette Framework
+
+Tools
+├── Git
+├── GitHub
+├── Vite
+├── VS Code
+├── Figma
+└── npm
+
+Currently Learning
+├── System Design
+├── Software Architecture
+├── Performance Optimization
+└── Full-Stack Development
+
+───────────────────────────────────────────────────────────────────────────────
+
+jakub@macbook ~ % ls featured-projects/
+
+📁 [libraflow-api](https://github.com/cesarjakub/libraflow-api)
+   └─ Semester-long REST API with authentication & database integration
+
+📁 [library-system](https://github.com/cesarjakub/library-system)
+   └─ Full-featured library management system built with Nette
+
+📁 [dev-tracker](https://github.com/cesarjakub/dev-tracker)
+   └─ Productivity tracker built with React 19, Vite & SCSS
+
+📁 [fx-knight-game](https://github.com/cesarjakub/fx-knight-game)
+   └─ JavaFX 2D dungeon action game
+
+📁 [cars-api](https://github.com/cesarjakub/cars-api)
+   └─ REST API for dealership fleet, branches & sales management
+
+───────────────────────────────────────────────────────────────────────────────
+
+jakub@macbook ~ % git status
+
+On branch main
+Your branch is ahead of origin/main.
+
+Changes:
+  ✔ Learning every day
+  ✔ Building cool projects
+  ✔ Writing cleaner code
+
+nothing to commit, working tree clean
+
+jakub@macbook ~ % █
