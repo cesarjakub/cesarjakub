@@ -1,109 +1,56 @@
-```markdown
-╭──────────────────────────────────────────────────────────────────────────────╮
-│ ● ● ●                                                              zsh       │
-╰──────────────────────────────────────────────────────────────────────────────╯
-
+```text
+╭──────────────────────────────────────────────────────────────────────╮
+│ ● ● ●                                          zsh — jakub@macbook   │
+╰──────────────────────────────────────────────────────────────────────╯
+  
 jakub@macbook ~ % ./about
 
-✔ Frontend Developer @ Česká Spořitelna
-✔ Software Engineering Student @ FEL
-✔ React • TypeScript • Tailwind CSS • Radix UI
-✔ Building modern, accessible web applications
+                                         jakub@macbook               
+             ██╗ ██████╗                 ───────────────────────────────
+             ██║██╔════╝                 Name      : Jakub Cesar
+             ██║██║                      Role      : Frontend Developer
+        ██   ██║██║                      Company   : Česká Spořitelna
+        ██   ██║██║                      Student   : FEL • Software Engineering
+        ╚█████╔╝╚██████╗                 Location  : Czech Republic 🇨🇿
+         ╚════╝  ╚═════╝                 Stack     : React • TS • Tailwind • Radix
+                                         Learning  : Java Spring • System Design
+                                         Projects  : 5 Featured
 
-───────────────────────────────────────────────────────────────────────────────
+Featured Projects
+├── libraflow-api      REST API • Auth • PostgreSQL
+├── library-system     Nette Framework
+├── dev-tracker        React 19 • Vite
+├── fx-knight-game     JavaFX
+└── cars-api           REST API
 
-jakub@macbook ~ % whoami
-
-Jakub Cesar
-Frontend Developer • Software Engineering Student
-Based in Czech Republic 🇨🇿
-
-───────────────────────────────────────────────────────────────────────────────
-
-jakub@macbook ~ % cat current.txt
-
-Currently
-─────────
-→ Frontend Developer (Part-time)
-  Česká Spořitelna
-
-→ Student
-  Faculty of Electrical Engineering (FEL)
-  Software Engineering
-
-→ Interested in
-  • Clean UI
-  • Developer Experience
-  • Modern Web Technologies
-  • Scalable Frontend Architecture
-
-───────────────────────────────────────────────────────────────────────────────
-
-jakub@macbook ~ % stack
-
-Frontend
-├── React
-├── Next.js
-├── TypeScript
-├── JavaScript
-├── Tailwind CSS
-├── Radix UI
-├── HTML
-└── CSS
-
-Backend
-├── C#
-├── ASP.NET
-├── REST APIs
-├── SQL
-└── Nette Framework
-
-Tools
-├── Git
-├── GitHub
-├── Vite
-├── VS Code
-├── Figma
-└── npm
-
-Currently Learning
-├── System Design
-├── Software Architecture
-├── Performance Optimization
-└── Full-Stack Development
-
-───────────────────────────────────────────────────────────────────────────────
-
-jakub@macbook ~ % ls featured-projects/
-
-📁 [libraflow-api](https://github.com/cesarjakub/libraflow-api)
-   └─ Semester-long REST API with authentication & database integration
-
-📁 [library-system](https://github.com/cesarjakub/library-system)
-   └─ Full-featured library management system built with Nette
-
-📁 [dev-tracker](https://github.com/cesarjakub/dev-tracker)
-   └─ Productivity tracker built with React 19, Vite & SCSS
-
-📁 [fx-knight-game](https://github.com/cesarjakub/fx-knight-game)
-   └─ JavaFX 2D dungeon action game
-
-📁 [cars-api](https://github.com/cesarjakub/cars-api)
-   └─ REST API for dealership fleet, branches & sales management
-
-───────────────────────────────────────────────────────────────────────────────
-
-jakub@macbook ~ % git status
-
-On branch main
-Your branch is ahead of origin/main.
-
-Changes:
-  ✔ Learning every day
-  ✔ Building cool projects
-  ✔ Writing cleaner code
-
-nothing to commit, working tree clean
+Status: Building modern, accessible web applications...
 
 jakub@macbook ~ % █
 ```
+### Frontend
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Radix_UI-161618?style=for-the-badge&logo=radixui&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+</p>
+
+### Other Technologies
+
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+</p>
+
+### Database & Tools
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
