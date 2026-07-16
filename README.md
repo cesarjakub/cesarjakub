@@ -1,56 +1,43 @@
-```text
-╭──────────────────────────────────────────────────────────────────────╮
-│ ● ● ●                                          zsh — jakub@macbook   │
-╰──────────────────────────────────────────────────────────────────────╯
-  
-jakub@macbook ~ % ./about
+```yaml
+# jakub@macbook --------------------------------------------------------------------------------
 
-                                         jakub@macbook               
-             ██╗ ██████╗                 ───────────────────────────────
-             ██║██╔════╝                 Name      : Jakub Cesar
-             ██║██║                      Role      : Frontend Developer
-        ██   ██║██║                      Company   : Česká Spořitelna
-        ██   ██║██║                      Student   : FEL • Software Engineering
-        ╚█████╔╝╚██████╗                 Location  : Czech Republic 🇨🇿
-         ╚════╝  ╚═════╝                 Stack     : React • TS • Tailwind • Radix
-                                         Learning  : Java Spring • System Design
-                                         Projects  : 5 Featured
+OS ................................................ macOS Sonoma
+Role .............................................. Frontend Developer (Part-time)
+Company ............................................ Česká Spořitelna
+Student ............................................. CTU FEL, Software Engineering
+Location ............................................ Czech Republic
+Shell ............................................... zsh
+Editor ............................................... VS Code
+Uptime ............................................... coding since forever
+Mood .................................................. caffeinated ☕
 
-Featured Projects
-├── libraflow-api      REST API • Auth • PostgreSQL
-├── library-system     Nette Framework
-├── dev-tracker        React 19 • Vite
-├── fx-knight-game     JavaFX
-└── cars-api           REST API
 
-Status: Building modern, accessible web applications...
+# Languages & Stack -----------------------------------------------------------------------------
 
-jakub@macbook ~ % █
+Frontend ............................................ React, TypeScript, Tailwind CSS, Radix UI, Vite
+Backend ............................................. C#, Java, Python, PHP, ASP.NET
+Database ............................................ PostgreSQL, MySQL
+Tools ................................................ Git, GitHub, Figma, VS Code
+
+
+# Currently learning ----------------------------------------------------------------------------
+
+Focus ................................................ System Design, Software Architecture
+Focus ................................................ Performance Optimization, Full-Stack Dev
+
+
+# Featured projects -----------------------------------------------------------------------------
+
+libraflow-api ......................................... REST API with auth & database integration
+library-system ......................................... Library management system (Nette Framework)
+dev-tracker ............................................ Productivity tracker, React 19 + Vite + SCSS
+fx-knight-game .......................................... 2D dungeon action game, JavaFX
+cars-api ................................................ REST API for dealership fleet & sales
 ```
-### Frontend
 
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Radix_UI-161618?style=for-the-badge&logo=radixui&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
-</p>
+<div align="center">
 
-### Other Technologies
+[![GitHub](https://img.shields.io/badge/github.com%2Fcesarjakub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cesarjakub)
+[![LinkedIn](https://img.shields.io/badge/linkedin.com%2Fin%2Fjakubcésar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jakubcésar)
 
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-</p>
-
-### Database & Tools
-
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
+</div>
